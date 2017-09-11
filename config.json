@@ -1,0 +1,32 @@
+{
+	"api": {
+		"bittrex": {
+			"key": "",
+			"secret": ""
+		},
+		"poloniex": {
+			"key": "",
+			"secret": ""
+		},
+		"nexmo": {
+			"key": "",
+			"secret": "",
+			"number": ""
+		},
+		"aws": {
+			"accessKeyId": "",
+   		    "secretAccessKey": "",
+   		    "region": ""
+		},
+		"slack": {
+			"token": ""
+		}
+	},
+	"contact": {
+		"email": {
+			"address": "",
+			"password": ""
+		},
+		"mobile": ""
+	}
+}
